@@ -35,7 +35,9 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tomastrejdl&show_icons=true&hide_border=true" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomastrejdl&count_private=true&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomastrejdl&layout=compact&hide_border=true)](https://github.com/tomastrejdl/github-readme-stats)
 
 [website]: https://tomastrejdl.tech
 [twitter]: https://twitter.com/tomastrejdl
