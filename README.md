@@ -3,8 +3,8 @@
 ## I'm Tomáš
 ### Student based in Prague, Czech republic.
 
-- 🔭 I’m currently working at SignoSoft
-- 🌱 I’m currently learning Abobe XD
+- 🔭 I’m currently working as UX Designer at Q Designers
+- 🌱 I’m currently learning Webflow
 - 👯 I’m looking to collaborate on UX Design and frontned web developement
 
 ### Connect with me:
