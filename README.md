@@ -3,9 +3,9 @@
 ## I'm Tomáš
 ### Student based in Prague, Czech republic.
 
-- 🔭 I’m currently working as UX Designer at Q Designers
-- 🌱 I’m currently learning Webflow
-- 👯 I’m looking to collaborate on UX Design and frontned web developement
+- 🔭 My primary focus my project Wrest - A smart mousepad designed to prevent carpal tunnel syndrome
+- 📃 I'm also working on my Master's thesis at the Department of Computer Graphics and Interaction at FEL CTU in Prague
+- 🌱 I’m currently learning Python
 
 ### Connect with me:
 
