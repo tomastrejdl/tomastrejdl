@@ -1,45 +1,51 @@
-### Hi there 👋
+### 👋 Hi there
 
 ## I'm Tomáš
-### Student based in Prague, Czech republic.
+### Student, UX Designer and Frontend Developer based in Prague, Czech republic.
 
 - 🔭 My primary focus my project Wrest - A smart mousepad designed to prevent carpal tunnel syndrome
 - 📃 I'm also working on my Master's thesis at the Department of Computer Graphics and Interaction at FEL CTU in Prague
-- 🌱 I’m currently learning Python
-
-### Connect with me:
-
-[<img align="left" alt="tomastrejdl.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="tomastrejdl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="tomastrejdl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tomastrejdl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools I use:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tomastrejdl&count_private=true&show_icons=true&hide_border=true)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=tomastrejdl&count_private=true&show_icons=true&theme=dark&hide=contribs"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=tomastrejdl&count_private=true&show_icons=true&hide=contribs"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=tomastrejdl&count_private=true&show_icons=true&hide=contribs" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomastrejdl&layout=compact&hide_border=true)
+<br />
 
-[website]: https://tomastrejdl.tech
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tomastrejdl&count_private=true&show_icons=true&theme=dark&layout=compact&hide=javascript"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tomastrejdl&count_private=true&show_icons=true&layout=compact&hide=javascript"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomastrejdl&count_private=true&show_icons=true&layout=compact&hide=javascript" />
+</picture>
+
+
+[website]: https://tomastrejdl.xyz
 [twitter]: https://twitter.com/tomastrejdl
 [instagram]: https://instagram.com/tomastrejdl
 [linkedin]: https://linkedin.com/in/tomastrejdl
