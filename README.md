@@ -1,10 +1,11 @@
 ### 👋 Hi there
 
 ## I'm Tomáš
-### Student, UX Designer and Frontend Developer based in Prague, Czech republic.
+### UX Designer and Frontend Developer based in Prague, Czech republic.
 
-- 🔭 My primary focus my project Wrest - A smart mousepad designed to prevent carpal tunnel syndrome
-- 📃 I'm also working on my Master's thesis at the Department of Computer Graphics and Interaction at FEL CTU in Prague
+- Currently User Experience Designer @ Škoda Auto
+- 🔭 Project Wrest - A smart mousepad designed to prevent carpal tunnel syndrome
+- 📃 Master's degree from the Department of Computer Graphics and Interaction at FEL CTU in Prague
 
 ### Languages and Tools I use:
 
